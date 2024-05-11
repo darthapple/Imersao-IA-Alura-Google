@@ -1,4 +1,4 @@
-# Imersao IA Alura e Google - 2024
+# Imersão IA Alura e Google - 2024
 
 Este projeto tem o objetivo de obter notícias em links RSS e gerar um resumo das mesmas além de trazer notícias relacionadas. Caso a notícia seja em outra lingua ela é
 automaticamente traduzida para o Português
